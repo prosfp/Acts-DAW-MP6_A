@@ -1,4 +1,4 @@
-# Exercici 3 - Bola màgica de 8 
+# Exercici 3 - Bola màgica de 8 
 
 ![](https://lh4.googleusercontent.com/2BpgHz-ku6HaI8RfvYxxsBLzWx3D3yzIF52lpFWgSifrR_wXLQdu9_fJ4lCUN5dfghVjKo3vEuktc5HbrnvuGhvqCj-kWSon4oPzp1CL8CCCCYn6CkVtfxl9BVel0LyIrhi_J31uengmS8eGVxx9pYo)
 
